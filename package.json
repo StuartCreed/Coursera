@@ -1,0 +1,19 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "Coursera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StuartCreed/Coursera.git"
+  },
+  "author": "Stuart Creed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StuartCreed/Coursera/issues"
+  },
+  "homepage": "https://github.com/StuartCreed/Coursera#readme"
+}
